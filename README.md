@@ -1,6 +1,6 @@
 # Titre
-__classe:__<br>
+__classe:__
     6TI
 <br>
-__user:__ <br>
+__user:__ 
     Emmerick Fontaine
