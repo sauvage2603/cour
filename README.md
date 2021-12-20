@@ -7,4 +7,3 @@
 Emmerick Fontaine,<br>
 Dany Lac,<br>
 Mamadou Touré,<br>
-test
