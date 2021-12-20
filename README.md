@@ -1,6 +1,8 @@
 # Titre
-__classe:__<br>
-    6TI
+
+**classe:**<br>
+6TI
 <br>
-__user:__ <br>
-    Emmerick Fontaine,
+**user:** <br>
+Emmerick Fontaine,<br>
+Dany Lac,
